@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "cli": {
+      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.8"
+      }
+  },
+  "templates": {}
+}
