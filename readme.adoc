@@ -5,3 +5,5 @@
 3. Go add your aliases and templates to the catalog using `jbang alias add`
 4. Submit PR and it will be reviewed and if all good a matching org will be setup.
 
+See https://github.com/jbanghub/jbanghub-contribute/pull/1 as example on how it should look like.
+
