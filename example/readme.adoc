@@ -1,0 +1,5 @@
+# JBangHub Catalog for example 
+
+This is a catalog of JBang scripts for example.
+
+Curated and created by the community.
